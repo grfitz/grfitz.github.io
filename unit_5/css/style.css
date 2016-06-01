@@ -1,0 +1,132 @@
+@import url(https://fonts.googleapis.com/css?family=Oswald);
+@import url(https://fonts.googleapis.com/css?family=Playfair+Display);
+
+
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #FFED74;
+	text-align: center; 
+	color:#FFF;
+	font-family: Arial, sans-serif;
+	border: 1px black solid;
+}
+
+header {
+	background-image: url(http://data.hdwallpapers.im/smoky_coffee.jpg);
+    background-color: #FFED74;
+    background-size:cover;
+    height: 100%;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+nav {
+	background-color: #E8C66A;
+    border: 1px black solid;
+    padding: 20px;
+    text-align: center;
+}
+
+h1 {
+	font-family: "Oswald";
+	font-size:250%;
+}
+
+h2 {
+	font-size: 200%;
+}
+
+h3 {
+	font-size: 100%;
+}
+
+p {
+	width: 540px;
+}
+
+a {
+	text-decoration: none;
+}
+
+li {
+	display:inline;
+}
+
+aside {
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+footer {
+	background-color: #FF957E;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+
+#wrapper" {
+	width: 1080px;
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+    margin: 20px;
+} 
+
+#main {
+	background-color: [enter color here];
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#slogan {
+	font-family: "Playfair Display";
+	background-color: #FFC675;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#food {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#food h3 {
+	width: 540px;
+}
+
+#food p {
+	width: 540px;
+}
+
+#bean {	
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#calendar {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#about_us {
+	background-color: #FFE2B8;
+    border: 1px black solid;
+    padding: 20px;
+}
+
+#about_us p {
+	width: 540px;
+}
+
+#about_us img {
+	width: 540px;
+}
